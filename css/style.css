@@ -131,6 +131,11 @@ nav {
   padding: 1rem 3rem;
 }
 
+.more {
+  display: none;
+}
+
+
 .circle {
 	border-radius: 50%;
   padding: 4rem;
@@ -303,3 +308,4 @@ footer p {
   color: #424343;
   margin-top: 3rem;
 }
+
